@@ -49,14 +49,10 @@ ledgerly generate --month 2026-06 --source shopify --no-template --out report.xl
 6. **Dashboard** — KPIs + three native charts
 
 ## Screenshots
-
-<img width="895" height="642" alt="image" src="https://github.com/user-attachments/assets/8698152d-c83e-4744-ac15-6800f338970b" />
-
-
-<img width="1346" height="786" alt="image" src="https://github.com/user-attachments/assets/b06a24c8-611b-4e93-aa0e-bb8c107dc475" />
+<img width="1346" height="786" alt="image" src="https://github.com/user-attachments/assets/7ba0e5dd-8755-4c45-b145-5cabb4bc9f3d" />
+<img width="895" height="642" alt="image" src="https://github.com/user-attachments/assets/e6763e34-1974-4bdc-84d4-3f36f22bef33" />
 
 
-<img width="1522" height="457" alt="image" src="https://github.com/user-attachments/assets/061ddf79-b02e-4409-9e52-45096eac1869" />
 
 
 ## Tests
